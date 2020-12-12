@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pv2/static/css/main.44deaff8.chunk.css",
+    "main.js": "/pv2/static/js/main.918e2f43.chunk.js",
+    "main.js.map": "/pv2/static/js/main.918e2f43.chunk.js.map",
+    "runtime-main.js": "/pv2/static/js/runtime-main.a778f41d.js",
+    "runtime-main.js.map": "/pv2/static/js/runtime-main.a778f41d.js.map",
+    "static/js/2.7a9e9671.chunk.js": "/pv2/static/js/2.7a9e9671.chunk.js",
+    "static/js/2.7a9e9671.chunk.js.map": "/pv2/static/js/2.7a9e9671.chunk.js.map",
+    "index.html": "/pv2/index.html",
+    "static/css/main.44deaff8.chunk.css.map": "/pv2/static/css/main.44deaff8.chunk.css.map",
+    "static/js/2.7a9e9671.chunk.js.LICENSE.txt": "/pv2/static/js/2.7a9e9671.chunk.js.LICENSE.txt",
+    "static/media/Capture.c55b1d21.png": "/pv2/static/media/Capture.c55b1d21.png",
+    "static/media/PluckChooseCapture.b03396d8.PNG": "/pv2/static/media/PluckChooseCapture.b03396d8.PNG",
+    "static/media/YourSpotCapture.c634b3bf.PNG": "/pv2/static/media/YourSpotCapture.c634b3bf.PNG",
+    "static/media/main.css": "/pv2/static/media/fa-solid-900.e4efd599.woff",
+    "static/media/memento1.bf0caf8e.PNG": "/pv2/static/media/memento1.bf0caf8e.PNG",
+    "static/media/memento2.6a596657.PNG": "/pv2/static/media/memento2.6a596657.PNG",
+    "static/media/profpic.0ac668a2.jpg": "/pv2/static/media/profpic.0ac668a2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a778f41d.js",
+    "static/js/2.7a9e9671.chunk.js",
+    "static/css/main.44deaff8.chunk.css",
+    "static/js/main.918e2f43.chunk.js"
+  ]
+}
