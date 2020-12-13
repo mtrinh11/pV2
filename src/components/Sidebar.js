@@ -9,7 +9,7 @@ export default () => {
         <section id="sidebar">
 
             <section id="intro">
-                <Link to="/pV2" class="logo">
+                <Link to="/" class="logo">
                     <img src={profPic} alt="Profile Picture" />
                 </Link>
                 <header>
