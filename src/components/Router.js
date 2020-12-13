@@ -1,7 +1,7 @@
 import React from 'react';
 import '../assets/css/main.css';
 import Nav from './Nav'
-import { Switch, Route } from 'react-router-dom';
+import { HashRouter, Switch, Route } from 'react-router-dom';
 
 import Sidebar from './Sidebar'
 
@@ -17,16 +17,17 @@ export default () => {
     return (
         <div id="wrapper">
             <Nav />
+            {/* <HashRouter basename="/"> */}
             <Switch>
                 <Route
                     exact
-                    path="/pV2"
+                    path="/"
                     component={ (props) => (
                         <Homepage />
                     )}
                 />
                 <Route
-                    path="/pV2/whoiam"
+                    path="/whoiam"
                     component={ (props) => (
                         <Whoiam />
                     )}
@@ -53,6 +54,7 @@ export default () => {
                     )}
                 />
             </Switch>
+            {/* </HashRouter> */}
             <Sidebar />  
         </div>
     )

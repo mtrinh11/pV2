@@ -1,7 +1,7 @@
 import React from 'react';
 import '../assets/css/main.css';
 import profPic from "../images/profpic.jpg";
-import {NavLink} from 'react-router-dom';
+import {Link} from 'react-router-dom';
 
 export default () => {
 
@@ -9,11 +9,9 @@ export default () => {
         <section id="sidebar">
 
             <section id="intro">
-                <a href="/" class="logo" >
-                    <NavLink>
-                        <img src={profPic} alt="Profile Picture" />
-                    </NavLink>
-                </a>
+                <Link to="/" class="logo">
+                    <img src={profPic} alt="Profile Picture" />
+                </Link>
                 <header>
                     <h2>Minh Trinh</h2>
                     <p>mtrinh11@gmail.com</p>
