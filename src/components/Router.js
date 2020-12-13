@@ -1,7 +1,7 @@
 import React from 'react';
 import '../assets/css/main.css';
 import Nav from './Nav'
-import { HashRouter, Switch, Route } from 'react-router-dom';
+import {Switch, Route } from 'react-router-dom';
 
 import Sidebar from './Sidebar'
 
@@ -17,11 +17,10 @@ export default () => {
     return (
         <div id="wrapper">
             <Nav />
-            {/* <HashRouter basename="/"> */}
             <Switch>
                 <Route
                     exact
-                    path="/pV2"
+                    path="/"
                     component={ (props) => (
                         <Homepage />
                     )}
@@ -33,28 +32,24 @@ export default () => {
                     )}
                 />
                 <Route
-                    exact
                     path="/resume"
                     component={ (props) => (
                         <Resume />
                     )}
                 />
                 <Route
-                    exact
                     path="/contact"
                     component={ (props) => (
                         <Contact />
                     )}
                 />
                 <Route
-                    exact
                     path="/projects"
                     component={ (props) => (
                         <Projects />
                     )}
                 />
             </Switch>
-            {/* </HashRouter> */}
             <Sidebar />  
         </div>
     )
