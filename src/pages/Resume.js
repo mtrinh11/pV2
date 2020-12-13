@@ -14,8 +14,14 @@ export default () => {
                 </header>
 
                 <h2 style={{textAlign: 'center'}}>Education</h2>
-                <h3 style={{lineHeight: '100%', fontSize: '80%', fontWeight: '400'}}>University of California, Berkeley, Class of 2018</h3>
-                <h4 style={{fontWeight: '400', fontSize: '70%', Height: '100%'}}><i>B.A. Poltical Economy, Concentration in International Trade & Law</i></h4>
+
+                <div style={{paddingBottom: '1px'}}>
+                    <header>
+                        <h4>University of California, Berkeley, Class of 2018</h4>
+                        <p><i>B.A. Poltical Economy, Concentration in International Trade & Law</i></p>
+                    </header>
+                    <p>Relevant Coursework: Introduction to Programming, Structure and Interpretation of Computer Programs, Calculus, Data Structures, Discrete Mathematics and Probability Theory, Machine Structures, Macroeconomics, Microeconomics, International Trade, Business Ethics, Probability and Statistics, Principles of Business</p>
+                </div>
 
                 <hr />
 
@@ -106,7 +112,7 @@ export default () => {
 
                 </div>
 
-                <hr />
+                {/* <hr /> */}
 
             </article>
 

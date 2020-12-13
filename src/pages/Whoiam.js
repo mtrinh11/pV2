@@ -36,6 +36,9 @@ export default () => {
                         <table>
                             <tbody>
                                 <tr>
+                                    <td colspan="2">I played No Limit Texas Hold 'Em professionally in college when time allowed.</td>
+                                </tr>
+                                <tr>
                                     <td>Current Location</td>
                                     <td>Los Angeles, CA</td>
                                 </tr>
