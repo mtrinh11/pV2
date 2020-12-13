@@ -6,7 +6,7 @@ export default () => {
 
     return (
         <header id="header">
-            <h1><a href="/">Minh Trinh</a></h1>
+            <h1><Link to="/pV2">Minh Trinh</Link></h1>
             <nav class="links">
                 <ul>
                     <li><Link to="/whoiam">who i am</Link></li>
