@@ -32,8 +32,7 @@ export default () => {
                         <img src={pluckPluckPic} alt="pluck pluck capture" />
                     </a>
                     <p>
-                        A MongoDB, Express, React, and Node.js Full-Stack app where one can track and organize their life through journal entries. It can help you with reflection on the past, collecting the present, and planning with the future.
-                        The 'm' in memento is lowercased on purpose!
+                        Pluck Pluck Choose is a place to upload images and be able to pluck or chuck them. Each post has upvotes and downvotes. The upvotes and downvotes are then compared against each other to establish a score for the animal. A tinder clone of cute animals for users to upvote or downvote on.
                     </p>
                     <footer>
                         <ul class="actions">
