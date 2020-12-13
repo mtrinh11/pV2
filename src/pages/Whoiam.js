@@ -36,7 +36,7 @@ export default () => {
                         <table>
                             <tbody>
                                 <tr>
-                                    <td>Current City</td>
+                                    <td>Current Location</td>
                                     <td>Los Angeles, CA</td>
                                 </tr>
                                 

@@ -22,55 +22,92 @@ export default () => {
                 <h2 style={{ textAlign: 'center'}}>Experience</h2>
                 <div class="timeline">
                     <div class="container right">
-                        <div class="content">
-                            <h3 style={{lineHeight: '100%', fontSize: '80%'}}>UNITED TALENT AGENCY - ASSISTANT TO THE HEAD OF COMEDY TOURING</h3>
-                            <p style={{lineHeight: '1%', fontSize: '90%'}}>January 2020 - July 2020 </p>
-                            <div class="row">
-                                <resumelist>
-                                    <li>Worked on stand-up comedy tours by working with the talent team and buyers across America. </li>
-                                    <li>Provided support with scheduling, arranging travel, expenses, and adminstrative tasks.</li>
-                                </resumelist>
+                        <article className="jobs-container">
+                            <div class="content" style={{paddingBottom: '1px'}}>
+                                <header>
+                                    <h4>Software Engineering Fellow</h4>
+                                    <p>General Assembly Software Engineering Immersive </p>
+                                </header>
+                                <ul>
+                                    <li>Participated in a full-time immersive, 3 month software engineering immersive, completing in-class projects, hackathons, and 
+                                        personal projects focused on real-world applications of data science principles and best practices. Developed a portfolio of 
+                                        individually and collaboratively focused in-class projects.</li>
+                                </ul>
                             </div>
-                        </div>
+                        </article>
                     </div>
                     <div class="container right">
-                        <div class="content">
-                            <h3 style={{lineHeight: '100%', fontSize: '80%'}}>UNITED TALENT AGENCY - Sales operations</h3>
-                            <p style={{lineHeight: '1%', fontSize: '90%'}}>February 2019 - February 2020 </p>
-                            <div class="row">
-                                <resumelist>
-                                    <li>Reviewed and processed contracts for shows in our database.</li>
-                                    <li>Executed contracts between UTA, purchaser, and artist in a timely matter.</li>
-                                </resumelist>
+                        <article className="jobs-container">
+                            <div class="content" style={{paddingBottom: '1px'}}>
+                                <header>
+                                    <h4>Agent Assistant</h4>
+                                    <p> <a href="https://www.unitedtalent.com/">United Talent Agency</a> </p>
+                                </header>
+                                <ul>
+                                    <li>Supported the department head for the comedy touring division.</li>
+                                    <li>Organized live comedy tours for a roster of 30+ clients comprising A-list and Small Talent.</li>
+                                </ul>
                             </div>
-                        </div>
+                        </article>
                     </div>
                     <div class="container right">
-                        <div class="content">
-                            <h3 style={{lineHeight: '100%', fontSize: '80%'}}>Mavrick Artist AGENCY - Administrative ASSISTANT</h3>
-                            <p style={{lineHeight: '1%', fontSize: '90%'}}>September 2018 - December 2018 </p>
-                            <div class="row">
-                                <resumelist>
-                                    <li> Managed over 500 client files using inEntertainment, LA Casting, Casting Frontier, and Breakdown Express</li>
-                                    <li>Overlooked data entry, calendars, inter-database consistency, phone calls, client intake</li>
-                                </resumelist>
+                        <article className="jobs-container">
+                            <div class="content" style={{paddingBottom: '1px'}}>
+                                <header>
+                                    <h4>Contracts Administrator</h4>
+                                    <p><a href="https://www.unitedtalent.com/">United Talent Agency</a></p>
+                                </header>
+                                <ul>
+                                    <li>Reviewed and processed contracts for the entire department’s roster of 200 clients in a timely matter.</li>
+                                </ul>
                             </div>
-                        </div>
+                        </article>
                     </div>
                     <div class="container right">
-                        <div class="content">
-                            <h3 style={{lineHeight: '100%', fontSize: '80%'}}> jericho! - Producer, Chief Financial Officer, Performer</h3>
-                            <p style={{lineHeight: '1%', fontSize: '90%'}}>February 2016 - May 2018 </p>
-                            <div class="row">
-                                <resumelist>
-                                    <li> Performed improv comedy for paying audience.  Wrote, produced, and edited live sketches and videos as well.</li>
-                                    <li> Oversaw all parts of the club including: management of team operations, media production, publicity, and financials.</li>
-                                </resumelist>
+                        <article className="jobs-container">
+                            <div class="content" style={{paddingBottom: '1px'}}>
+                                <header>
+                                    <h4>Administrative Assistant</h4>
+                                    <p><a href="https://mavrickagency.com/">MAVRICK ARTIST AGENCY</a></p>
+                                </header>
+                                <ul>
+                                    <li>Managed 500+ client files using inEntertainment, LA Casting, Casting Frontier, and Breakdown Express.</li>
+                                    <li>Overlooked data entry, calendars, inter-database consistency, phone calls, and client intake.</li>
+                                </ul>
                             </div>
-                        </div>
+                        </article>
                     </div>
+                    <div class="container right">
+                        <article className="jobs-container">
+                            <div class="content" style={{paddingBottom: '1px'}}>
+                                <header>
+                                    <h4>Producer, CFO, Performer</h4>
+                                    <p>jericho! Improv and Sketch Comedy</p>
+                                </header>
+                                <ul>
+                                    <li>Managed a team of 12 to 15 improvisers that performed for live audiences of over 100 people Facilitated logistical fluidity and efficiency through the organization. </li>
+                                </ul>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="container right">
+                        <article className="jobs-container">
+                            <div class="content" style={{paddingBottom: '1px'}}>
+                                <header>
+                                    <h4>Writer, Producer, and Actor</h4>
+                                    <p><a href="https://caltv.berkeley.edu/">caltv</a></p>
+                                </header>
+                                <ul>
+                                <li>Organized, led and supplemented comedy-oriented video production Wrote, acted in, edited, and marketed comedic content that saw 1,000s of views</li>
+                                </ul>
+                            </div>
+                        </article>
+                    </div>
+
                 </div>
+
                 <hr />
+
             </article>
 
         </div>
