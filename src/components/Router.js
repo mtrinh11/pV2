@@ -21,7 +21,7 @@ export default () => {
             <Switch>
                 <Route
                     exact
-                    path="/"
+                    path="/pV2"
                     component={ (props) => (
                         <Homepage />
                     )}
