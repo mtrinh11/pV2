@@ -20,7 +20,7 @@ export default () => {
 
             <section class="blurb">
                 <h2>About</h2>
-                <p>I am a systematically creative and solutions-oriented software engineer with a diverse background in entertainment, economics, and political science. I value having an open mind as it bolsters my passion to always improve and be proactive in my problem-solving. In my work, I utilize skills that I honed during my work as an assistant in entertainment to create the best product: quick adaptation, collaboration, communication, efficiency, and grit. </p>
+                <p>I am a systematically creative and solutions-oriented software engineer with a diverse background in entertainment, economics, and political science. I value having an open mind as it bolsters my passion to improve and be proactive in my problem-solving. In my work, I utilize skills that I honed during my work as an assistant in entertainment to create the best product: quick adaptation, collaboration, communication, efficiency, and grit. </p>
                 <ul class="actions">
                     <li>
                         <Link to="/whoiam" class="button">Learn More</Link>
