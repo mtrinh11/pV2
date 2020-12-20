@@ -13,7 +13,7 @@ export default () => {
                 </header>
                 <p> I was born in Ho Chi Minh City, but immigrated to The United States before I could form any lasting memories. 
                     I grew up in the San Fernando Valley in Southern California where I learned the meaning of "heat wave". 
-                    I went to Anatola Elementary and Birmingham Community Charter High School where I worked hard enough 
+                    I went to Anatola Elementary and Mulholland Middle before going to Birmingham Community Charter High School where I worked hard enough 
                     to gain acceptance to UC Berkeley.
                     <br/><br/>
                     At UC Berkeley I studied a variety of subjects, and graduated with a BA in Political Economics with a concentration
