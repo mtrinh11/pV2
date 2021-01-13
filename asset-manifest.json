@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pV2/static/css/main.b14e08aa.chunk.css",
-    "main.js": "/pV2/static/js/main.42963daf.chunk.js",
-    "main.js.map": "/pV2/static/js/main.42963daf.chunk.js.map",
+    "main.js": "/pV2/static/js/main.7bff7647.chunk.js",
+    "main.js.map": "/pV2/static/js/main.7bff7647.chunk.js.map",
     "runtime-main.js": "/pV2/static/js/runtime-main.d476b5e1.js",
     "runtime-main.js.map": "/pV2/static/js/runtime-main.d476b5e1.js.map",
     "static/js/2.600b8ab4.chunk.js": "/pV2/static/js/2.600b8ab4.chunk.js",
@@ -14,6 +14,8 @@
     "static/media/PluckChooseCapture.b03396d8.PNG": "/pV2/static/media/PluckChooseCapture.b03396d8.PNG",
     "static/media/YourSpotCapture.c634b3bf.PNG": "/pV2/static/media/YourSpotCapture.c634b3bf.PNG",
     "static/media/main.css": "/pV2/static/media/fa-solid-900.e4efd599.woff",
+    "static/media/floristahomepagecapture.6ba82d19.PNG": "/pV2/static/media/floristahomepagecapture.6ba82d19.PNG",
+    "static/media/floristaprofilepagecapture.37e2176f.PNG": "/pV2/static/media/floristaprofilepagecapture.37e2176f.PNG",
     "static/media/memento1.bf0caf8e.PNG": "/pV2/static/media/memento1.bf0caf8e.PNG",
     "static/media/memento2.6a596657.PNG": "/pV2/static/media/memento2.6a596657.PNG",
     "static/media/profpic.0ac668a2.jpg": "/pV2/static/media/profpic.0ac668a2.jpg"
@@ -22,6 +24,6 @@
     "static/js/runtime-main.d476b5e1.js",
     "static/js/2.600b8ab4.chunk.js",
     "static/css/main.b14e08aa.chunk.css",
-    "static/js/main.42963daf.chunk.js"
+    "static/js/main.7bff7647.chunk.js"
   ]
 }
