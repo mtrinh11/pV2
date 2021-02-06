@@ -11,24 +11,30 @@ export default () => {
                     </div>
                     
                 </header>
-                <p> I was born in Ho Chi Minh City, but immigrated to The United States before I could form any lasting memories. 
+                <p> 
+                    I was born in Ho Chi Minh City, but immigrated to the United States before I could form any lasting memories. 
                     I grew up in the San Fernando Valley in Southern California where I learned the meaning of "heat wave". 
-                    I went to Anatola Elementary and Mulholland Middle before going to Birmingham Community Charter High School where I worked hard enough 
-                    to gain acceptance to UC Berkeley.
+                    I went to Anatola Elementary and Mulholland Middle before going to Birmingham Community Charter High School 
+                    where I worked hard enough to gain acceptance to UC Berkeley.
                     <br/><br/>
-                    At UC Berkeley I studied a variety of subjects, and graduated with a BA in Political Economics with a concentration
-                    in International Trade. There I took my first coding class and used Snap!, a graphical programming language. I found that I
-                    enjoyed coding so I continued taking computer science classes. Next, I learned python and java. 
+                    At UC Berkeley I studied a variety of subjects, and graduated with a BA in Political Economics with a 
+                    concentration in International Trade. I very interested in understanding the world's affairs
+                    through a political and economic lens. However, I found a love for action in programming.
+                    There I took my first coding class and used Snap! , a graphical programming language. 
+                    I found that I enjoyed coding so I continued exploring and learning about the world of computer
+                    science.
+                    I learned to use languages such as Python and Java. I found how to leverage programming paradigms like
+                    functional programming and object oriented programming. I had a great time!
                     <br/><br/>
-                    After graduating from UC Berkeley, I worked in entertainment at one of the Big Four talent agencies following a love
-                    I found for entertainment after doing improv comedy in college. 
-                    There I worked in music and comedy touring. Going to shows big and small varying in genre and themes was a 
-                    great experience. 
+                    After graduating from UC Berkeley, I worked in entertainment at one of the Big Four talent agencies 
+                    following a love I found for performance after doing improv comedy in college. 
+                    There, I worked in music and comedy touring. Going to shows big and small varying in genre and themes
+                    was a great experience. I enjoyed interacting with the talent and curating for them 
+                    opportunities to show their art.
                     <br/><br/>
-                    Unfortunately, COVID-19 sent us into lockdown and many other changes. Upon much reflection, I decided I'd pursue the
-                    adjacent passion I discovered in college: coding.
-
-
+                    Unfortunately, COVID-19 sent us into a world we never would have guessed. A couple of 
+                    months passed and upon much reflection, I decided 
+                    I'd pursue the adjacent passion I discovered in college: coding.
                 </p>
                 <section>
                     <h4>Fun Facts</h4>
